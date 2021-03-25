@@ -1,0 +1,65 @@
+{
+  "contrato" : {
+    "Complemento" : "Características de Contrato",
+    "carac" : [
+      {
+        "id_tipo" : 5,
+        "nombre" : "Código de proyecto (waoc)",
+        "valor" : 29315,
+        "eunomia" : 1,
+        "nota" : ""
+      },
+      {
+        "id_tipo" : 100008,
+        "nombre" : "Duracion Contrato (meses)",
+        "valor" : 12,
+        "eunomia" : 0,
+        "nota" : ""
+      },
+      {
+        "id_tipo" : 100012,
+        "nombre" : "Movimiento",
+        "valor" : [
+          "Alta Genérico",
+          "Cambio condiciones económicas",
+          "Modificación técnica"
+        ],
+        "eunomia" : 0,
+        "nota" : ""
+      },
+      {
+        "id_tipo" : 101000,
+        "nombre" : "# oportunidad",
+        "valor" : 50955,
+        "eunomia" : 0,
+        "nota" : ""
+      },
+      {
+        "id_tipo" : 101009,
+        "nombre" : "Mercado",
+        "valor" : [
+          "Call Centers",
+          "DSI",
+          "Interno UNE",
+          "OBS",
+          "OCAT",
+          "OSP GC",
+          "OSP GC móvil",
+          "OSP Pyme",
+          "Pruebas",
+          "Tiendas Orange",
+          "Wholesale"
+        ],
+        "eunomia" : 0,
+        "nota" : ""
+      },
+      {
+        "id_tipo" : 101010,
+        "nombre" : "Código Contrato",
+        "valor" : "OC2021000068391FTGC0",
+        "eunomia" : 0,
+        "nota" : ""
+      }
+    ]
+  }
+}
